@@ -1,0 +1,10 @@
+class: "ClosestDotTest"
+
+layoutName: "Test 9"
+layout: """
+%%%%%%%%
+%      %
+%P.   .%
+%      %
+%%%%%%%%
+"""
